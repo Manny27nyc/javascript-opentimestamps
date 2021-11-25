@@ -7,7 +7,7 @@
     "bitcore-lib": "^8.14.4",
     "bytebuffer": "^5.0.1",
     "commander": "^2.20.3",
-    "fs": "0.0.1-security",
+    "fs": "0.0.2",
     "minimatch": "^3.0.4",
     "moment-timezone": "^0.5.27",
     "promise": "^7.3.1",
